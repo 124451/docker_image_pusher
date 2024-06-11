@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 bestwu/wechat:latest
 homebrew/ubuntu18.04:latest
+ubuntu:22.04
