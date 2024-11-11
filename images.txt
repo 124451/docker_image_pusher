@@ -6,3 +6,4 @@ homebrew/ubuntu18.04:latest
 ubuntu:22.04
 osrf/ros:noetic-desktop-full
 ubuntu:20.04
+osrf/ros:melodic-desktop-full
